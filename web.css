@@ -1,0 +1,91 @@
+body{
+    background-color: #d8cbbc;
+}
+
+
+.img-container{
+    font-size: 40px;
+        font-weight: bold;
+        font-family: 'DM Serif Display', serif;
+font-family: 'Nunito', sans-serif;
+        color: #897c6f;
+        text-align: center;
+}
+.button{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+#btn1{
+    background-color: #968b7f;
+    margin-right: 14px;
+}
+#btn2{
+    background-color: #E9F0FA;
+    margin-right: 14px;
+}
+#btn3{
+    background-color: #E9F0FA;
+}
+
+
+#container{
+    display: flex;
+    justify-content: center ;
+    margin-top: 10px
+}
+
+.hai{
+font-size: 40px;
+        font-weight: bold;
+        font-family: 'DM Serif Display', serif;
+        color: #897c6f;
+        text-align: left;
+}
+
+.tentang{
+    font-size: 20px;
+        font-family:'Nunito', sans-serif;
+        color: #312c27;
+        text-align: left;
+}
+#foto{
+    width: 440px;
+    border-radius: 20px;
+    margin-top: 12px;
+}
+
+.material-icons {
+    font-family: 'Material Icons';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 1;
+    letter-spacing: normal;
+    text-transform: none;
+    display: inline-block;
+    white-space: nowrap;
+    word-wrap: normal;
+}
+#center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+.education{
+    font-size: 20px;
+        font-family:'Nunito', sans-serif;
+        color: #312c27;
+        text-align: left;
+}
+
+
+.kit{
+    font-size: 40px;
+        font-weight: bold;
+        font-family: 'Fjalla One', sans-serif;
+        color: #897c6f;
+        text-align: center;
+}
+  
